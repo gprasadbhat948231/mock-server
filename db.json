@@ -1,8 +1,4 @@
 {
-    "test":[
-        {
-            "id":1,
-            "name":"Guru"
-        }
-    ]
+    "users":[],
+    "blogs":[]
 }
